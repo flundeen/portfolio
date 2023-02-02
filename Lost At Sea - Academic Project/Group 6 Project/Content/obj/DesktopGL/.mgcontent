@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/BasicEnemy.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/BasicProjectile.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/BasicTower.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/BasicVillage.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Grass.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Oswald.spritefont</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Path.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/pixil-frame-0 (10).png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Sea.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/titleScreen.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>TowerUnique.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

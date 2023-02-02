@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Basic_Bow_Tower.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Basic_Fish_Enemy.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Basic_Tower_Arrow.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/BasicEnemy.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/BasicProjectile.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/BasicTower.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/BasicVillage.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Boss_Enemy.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/BossMusic.wav</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Button_Background.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Crab_spritesheet.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/crabTexture.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Enemy death1.wav</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/enemyHit.wav</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Eye_Beam.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/GameplayUI background.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/GameplayUI text.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Grass.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Grass_Tile.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/LandRise.wav</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/LandRise1.wav</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/MainMusic.mp3</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Menu_background.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Mine_tower.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Mortar_tower.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/NewTutorial.PNG</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Oswald.spritefont</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/PapyBig.spritefont</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Path.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Path_Tile.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/pixil-frame-0 (10).png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/PlayerRun.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Sea.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Sea_Tile.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Tank image.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Tesla_Tower_Tex.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/titleScreen.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Turtorial Page 3 .png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Tutorial page 0.PNG</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Tutorial page 1.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/tutorial page 2.png</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/tutorial.PNG</File>
+    <File>C:/Users/Flynn/source/repos/106-Group6/Final Project/Group 6 Project/Group 6 Project/Content/Village_v2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>TowerUnique.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
